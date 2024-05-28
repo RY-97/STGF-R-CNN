@@ -13,7 +13,10 @@
 
 4 Training<br/>
    python tools/train.py -c configs/faster_rcnn/faster_rcnn_swin_tiny_fpn_gn_3x.yml -o<br/>
+   
+5 test <br>
+ ![image](dataset/iMSC_pro/infer_result/iMSC-P9-B1_12_13.2.png)
 
-5 datasets: The dataset used in this study is private. If you are interested in our work, please contact us.<br/>
+6 datasets: The dataset used in this study is private. If you are interested in our work, please contact us.<br>
 
 
