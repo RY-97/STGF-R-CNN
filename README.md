@@ -1,7 +1,7 @@
 1 Code description <br/>
   1.1: The code .yml file used has been uploaded and is in the root directory ../STGF-R-CNN/faster_rcnn_swin_tiny_fpn_gn_3x.yml<br/>
   1.2: You need to place the faster_rcnn_swin_tiny_fpn_gn_3x.yml file in Paddle's folder ../STGF-R-CNN/config/faster_rcnn. Just copy the path when running.<br/>
-  1.3：Pay attention to version compatibility issues. The PaddleDetection version used is:<br/>
+  1.3: Pay attention to version compatibility issues. The PaddleDetection version used is:<br/>
   PaddleDetection：https://github.com/PaddlePaddle/PaddleDetection <br/>
   full_version    = '2.4.0' <br/>
   commit          = 'bb4fbe84252608a3bb52dc794fec10af169b5c0e' <br/>
